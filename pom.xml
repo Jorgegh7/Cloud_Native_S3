@@ -11,9 +11,9 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.duoc</groupId>
-	<artifactId>learningplatform</artifactId>
+	<artifactId>sistema-pedidos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>learningplatform</name>
+	<name>sistema-pedidos</name>
 
 	<properties>
 		<java.version>21</java.version>
